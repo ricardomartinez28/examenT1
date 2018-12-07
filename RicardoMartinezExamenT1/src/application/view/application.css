@@ -1,0 +1,18 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.mytitle{
+    -fx-font-family:  'Gamja Flower', cursive;
+    
+    -fx-font-size: 24.0;
+    /*-fx-font-family: "Shadows Into Light";*/    
+}
+.mytitle2{
+    -fx-font-family:  'Gamja Flower', cursive;
+    
+    -fx-font-size: 36.0;
+    /*-fx-font-family: "Shadows Into Light";*/    
+}
+.mybutton:hover {
+	-fx-background-color:  #008080;
+	-fx-border-color:  #008080;
+}
