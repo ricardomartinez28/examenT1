@@ -10,7 +10,7 @@ import javafx.scene.layout.AnchorPane;
 /**
  * @author ricardo martinez;
  * @version 1.0.0
- * @see controller
+ * 
  */
 
 
